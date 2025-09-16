@@ -1859,7 +1859,7 @@ input, select, textarea {
 			.feature-list h3:before {
 				display: block;
 				color: /*#fff*/#50C878;
-				background: /*#2f333b*/#50C878 url("images/overlay.png");
+				background: #2f333b/*#50C878*/ url("images/overlay.png");
 				border-radius: 2.5em;
 				text-align: center;
 				width: 2.5em;
